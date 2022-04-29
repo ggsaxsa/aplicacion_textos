@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import base64
 import io
+import pdfplumber
 from extraccion_contenidos import *
 from pdf2image import convert_from_bytes
 
