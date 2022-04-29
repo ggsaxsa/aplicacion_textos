@@ -1,6 +1,4 @@
 name: mi_n
-before_script:
-  - apt-get install libpoppler-dev
 dependencies:
   - pip:
     - streamlit>=1.8.1
