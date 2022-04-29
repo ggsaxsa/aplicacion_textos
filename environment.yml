@@ -1,0 +1,5 @@
+name: mi_n
+channel:
+  - conda-forge
+dependencies:
+  - poppler
