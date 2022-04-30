@@ -1,1 +1,2 @@
 libpoppler-dev
+poppler-utils
